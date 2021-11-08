@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2010-09-10
 Resources: 
   DevEC2Instance: 
     Type: 'AWS::EC2::Instance'
